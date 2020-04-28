@@ -38,7 +38,7 @@ ul li a {
     display: block;
     font-family: Arial, Helvetica, sans-serif;
     color:#1e1e1e;
-    text-transform: capitalize;
+    text-transform: uppercase;
 
 }
 
